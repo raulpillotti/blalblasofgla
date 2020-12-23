@@ -13,7 +13,7 @@ public class Main {
 
 		int i;
 		
-		Scanner sc = new Scanner (System.in)
+		Scanner sc = new Scanner (System.in) //asofijasigujhahiguas
 
 		int n = sc.nextInt();
 		
